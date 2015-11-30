@@ -1,0 +1,615 @@
+Aberration
+Abrasive
+Acetylene
+Adsorption
+Aged
+Agglomeration
+Air cooled
+Airy's rings
+AlGaAs
+Allotriomorph
+Allotropy
+Alloy
+Alumina
+Aluminium
+Ammonia
+Amorphous
+Amorphous polymer
+Analyser
+Anisotropic
+Annealing
+Annealing twins
+Anodising
+Antioxidant
+Anti-phase boundary
+Arc welding
+Aspect ratio
+Astigmatism
+Atomic force microscopy
+Atomising
+Aufbau principle
+Auger electron
+Auger emission example
+Austempering
+Austenite
+Avogadro's number
+Backscattered electron
+Bainite
+Balanced laminates
+Band gap
+Bar
+Basis
+BCC
+Beach marks
+Beta grain
+Billet
+Binding energy
+Biodegradable polymer
+Birefringence
+Blackheart cast iron
+Blend
+Bloch wave
+Bloom
+Blow moulding
+Bohr radius
+Boltzmann
+Boltzmann's constant
+Bond
+Bone
+Boron
+Box
+Bragg, Lawrence
+Bragg's law
+Brass
+Bravais lattice
+BRDF
+Bremsstrahlung
+Brick
+Bright field
+Bright field image
+Brightness
+Brillouin zone
+Brittle
+Bronze
+Buckling
+Burgers vector
+Butane
+Calcium
+Cantilever
+Carbide
+Carbon Fibres
+Carbon monoxide
+Carburisation
+Cast
+Cast iron
+Casting
+Cathodoluminescence
+Cell
+Cement
+Cementite
+Centre of symmetry
+Ceramic
+Characteristic X-ray
+Chill zone
+Chromatic aberration
+Cleavage
+Cleavage plane
+Climb
+Close-packed
+Coherency strain
+Coherent interface
+Coherent radiation
+Coke
+Cold rolled
+Compliance
+Component
+Composite material
+Composition
+Concave lens
+Concentration
+Concrete
+Conduction band
+Confinement
+Constituent
+Constitution
+Constitution point
+Contact resistance
+Contrast
+Convergence
+Converter
+Convex lens
+Coplanar
+Coring
+Corrosion
+CPH
+Craze
+Creep
+Cross slip
+Cross-linking
+Cross-section
+Crystal
+Crystal axes
+Crystal plane
+Crystal system
+Crystallinity
+Crystallite
+Crystallization
+Crystallographically equivalent
+Cubic close-packed
+Cubic crystal structure
+Dark field image
+Darken's equations
+De Broglie equation
+Debye, Peter
+Decarburisation
+Decay
+Defect
+Deformation twins
+Degassing
+Dendrite
+Density
+Density of states
+Depth of field
+Depth of focus
+Desorption
+Desulphurization
+Devitrification
+Diad
+Diamond structure
+Dielectric
+Dielectric constant
+Diffraction
+Diffraction grating
+Diffraction pattern
+Diffuse reflectance
+Diffuse slip
+Diffusion
+Diffusion couple
+Diffusivity
+Dilatational stress
+Direct chill (DC) casting
+Dislocation
+Dislocation bowing
+Dislocation density
+Dissociation
+Doping
+Doping (2)
+Drawing
+Ductile
+Ductile failure
+Ductility
+Effective mass
+Elastic deformation
+Elastic scattering
+Elastic strain
+Electrical conductivity
+Electroceramic
+Electrolytic process
+Electron affinity
+Electron energy loss spectroscopy
+Electron mass
+Electron volt
+Electronic charge
+Ellingham diagram
+Energy level
+Energy of dislocation
+Enthalpy
+Entropy
+EPA
+Epoxy
+Epoxy resins
+Equiaxed
+Equilibrium
+Error function, erf
+Etching
+Eucentric
+Eutectic
+Eutectic reaction
+Eutectoid reaction
+Ewald, Paul Peter
+Excited
+Exciton
+Exclusion principle
+Explosively deformed
+Extremum
+Extrinsic
+Extrusion
+Facet
+Fatigue
+FCC
+Feldspar
+Fermi energy
+Fermi level
+Fermi sphere
+Fermi-Dirac statistics
+Ferrite
+Ferrites
+Ferrous
+Fibre
+Fibril
+Fibrillation
+Fick's first law of diffusion
+Fick's second law of diffusion
+Field emission
+Filler
+Flux (mass transport)
+Flux (smelting, soldering)
+Foam
+Focal length
+Forging
+Formability
+Formability
+Forming
+Forward bias
+Forward scattered electron
+Fracture
+Fracture energy
+Fracture mode
+Fracture toughness
+Frank-Read source
+Fraunhofer diffraction
+Fraunhofer, Joseph von
+Free electron theory
+Free energy
+Fresnel diffraction
+Fresnel, Augustin-Jean
+Friction welding
+Frozen stress
+Fusion welding
+FWHM
+GaAs
+Gear
+Gibbs' free energy
+Gibbs' phase rule
+Gibbs, J(osiah) Willard
+Glass
+Glass fibres
+Glass transition temperature (Tg)
+Glide
+Glide plane
+Grain
+Grain boundary
+Grain growth
+Grain refinement
+Graphite
+Grey cast iron
+Ground state
+hn
+Hackle region
+Halpin-Tsai
+Hard magnet
+Hardening
+Hardness
+Heat treatment
+Heisenberg
+Heterojunction
+Hexad
+Holes
+Hooke's law
+Hooke's law
+Hoop stress
+HRTEM
+HSLA steel
+Hybridisation
+Hydrogen
+Hydrophilic
+Hydrophobic
+Hydroxyapatite
+Hypereutectic
+Hypereutectoid
+Hypoeutectic
+Hypoeutectoid
+Inclusions
+Incoherent interface
+Inelastic scattering
+Ingot
+Injection moulding
+Inner-shell
+In-phase
+Integrated circuit
+Interaction cross-section
+Interdiffusion coefficient
+Interface
+Interfacial shear stress
+Intergranular
+Intermetallic compound
+Internal energy
+Interstitial
+Intrinsic
+Inversion axis
+Isotropic
+Jog
+K, L, M details
+K, L, M terminology
+Kevlar
+k-space
+Ladle stirring
+Lamella
+Laminate
+Laser
+Latent heat
+Lattice
+Lead
+LED (light emitting diode)
+LEED
+Lens
+Lever rule
+Light
+Lime
+Limestone
+Line defect
+Liquidus
+Liquidus temperature
+Localised electron
+Localised slip
+Lorentz constant
+Machinability
+Magnetic flux
+Majority carrier
+Martensite
+Materials Science
+Matrix
+Mean free path
+Mechanical twins
+Melting point
+Metallurgy
+Metastable
+Micron
+Microsegregation
+Microvoid coalescence
+Miller index
+Miller-Bravais index
+Mineral
+Minority carrier
+Mirror
+Mirror region
+Miscibility of components
+Mist region
+Mixed mode failure
+Mobility
+Modification
+Molecule
+Momentum
+Monad
+Monochromatic radiation
+Monoclinic
+Monte Carlo methods
+Morphology
+Mott transition
+Multilayer capacitor
+Multiple scattering
+Multiplication
+Nanotube
+Nearly-free electron theory
+Neutral axis
+Ni-hard iron
+Nitride
+Node
+Noise
+Non steady-state diffusion
+Non-ferrous
+Normalising
+Notch sensitivity
+Nozzle
+Nucleation
+Nucleus
+Oleophilic
+Optic axis
+Orbital
+Order hardening
+Ore
+Orthorhombic
+Outer-shell
+Overaged
+Oxide
+Oxygen
+Parison
+Partial Recrystallisation
+Partition coefficient
+Passivated
+Passive
+Pauli exclusion principle
+Pearlite
+Peritectic reaction
+Peritectoid reaction
+Phase
+Phase
+Phase diagram
+Phase morphology
+Phase region
+Phonon
+Phosphorus
+Photoelasticity
+Photon
+Pixel
+Planck's constant
+Plane group
+Plane lattice
+Plasmon
+Plastic deformation
+Plastic strain
+Plate
+Plural scattering
+p-n junction
+Point group
+Poisson distribution
+Poisson's ratio
+Polariser
+Polarising filter
+Polycrystalline
+Polyester resins
+Polymer
+Population inversion
+Porosity
+Potassium cyanide
+Precipitation
+Precipitation free zone (PFZ)
+Precipitation hardening
+Primary electron
+Primitive
+Primitive cell
+Proeutectoid steel
+Proof stress
+Propane
+Proportion of phases
+Pull-out
+Pumping
+Pyrolysis
+Quadrature
+Quantum numbers
+Quenching
+Radiation
+Raster
+Raw materials
+Rayleigh criterion
+Reaction bonding
+Reciprocal lattice
+Reciprocal space
+Recovery (Extraction)
+Recovery (Microstructure)
+Recrystallisation
+Recycling
+Refined microstructure
+Refining
+Refractive index
+Refractory
+Regular polyhedron
+Reinforcement
+Residual stress
+Resistance welding
+Resistivity
+Resolved shear stress
+Rest mass
+Reuss
+Reverse bias
+RHEED
+Rod
+Roll-bonding
+Rolling
+Röntgen, Wilhelm Conrad
+Rose criterion
+Rotation axis
+Rubber
+Rule of mixtures
+Rydberg
+s, p, d, f terminology
+Scale of microstructure
+Scanning Electron Microscope
+Scattering
+Scherrer, Paul
+Schrödinger equation
+Screw axis
+Secondary electron
+Selected Area Diffraction
+Selection rules
+Selenium
+Semi-coherent interface
+Semiconductor
+Shear
+Shear bands
+Shear lag model
+Shear modulus
+Shear stress
+Sign of dislocation
+Signal
+Silicon
+Single crystal
+Single scattering
+Sintering
+Slab
+Slag
+Slip
+Slip band
+S-N curve
+Solid solubility
+Solid solution
+Solid solution strengthening
+Solidus
+Solidus temperature
+Solution heat treatment
+Solvus
+Space group
+Specific heat
+Specular reflectance
+Spherical aberration
+Spherical cap
+Spherulite
+Spinel
+Spontaneous
+Spot size
+Spot welding
+Stacking fault
+Stacking fault energy, (SFE)
+Stacking sequence
+State variables
+Steady-state diffusion
+Steel
+Stiffness
+Stimulated emission
+Strain
+Strength
+Stress
+Stress corrosion (cracking)
+Stress field
+Stringers
+Sulphur
+Supercooling
+Surface coating
+Surface hardening
+Suspension
+Symmetric laminate
+Symmetry element
+Tellurium
+Tensor
+Tetrad
+Thermal activation
+Thermal analysis
+Thermal conductivity
+Thermionic emission
+Thermoplastic
+Thermoset
+Thin lens
+Tie line
+Tissue engineering
+Topography
+Total reflectance
+Toughness
+Transformation
+Transformation matrix
+Transition metal
+Translational symmetry
+Translational symmetry element
+Triad
+Tsai-Hill
+Twinning
+Two-phase alloy
+Uncertainty principle
+Unit cell
+Unit vector
+Vacancy
+Vacancy concentration
+Vacancy formation energy
+Vacancy migration energy
+Vacancy migration energy image
+Vacuum level
+Valence band
+Vibration direction
+Viscosity
+Voigt
+von Laue, Max
+Wave vector
+Wavelength
+Weibull modulus
+Weiss zone law
+White cast iron
+Widmanstätten
+Wigner-Seitz cell
+Work function
+Work-hardening
+Working distance
+Wrought
+Wrought iron
+X-ray
+X-ray diffraction
+Yield stress
+Young modulus
