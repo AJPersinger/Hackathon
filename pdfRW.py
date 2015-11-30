@@ -1,10 +1,11 @@
-import textract
+#import textract
 import time
+import wikipedia
 t = time.time()
 
-plainFile = textract.process("source.pdf")
+#plainFile = textract.process("source.pdf")
 
-textList = plainFile.split()
+#textList = plainFile.split()
 definitionList = []
 
 #outputFile = open("outputFile.txt", "wb")
@@ -27,10 +28,10 @@ while i < len(finalDefList):
         i += 1
         string = open(str(k)+'.txt').read()
         for word in string.split():
-            dictionary[word] = ""
+            dictionary[word] = wikipedia.summary(word, sentences=2)
         k += 1
 
-print finalDefList
+
 
 print(time.time() - t)
 
