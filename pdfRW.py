@@ -1,20 +1,15 @@
 #import textract
 import time
 import wikipedia
+
+#tic
 t = time.time()
 
 #plainFile = textract.process("source.pdf")
 
 #textList = plainFile.split()
-definitionList = []
 
-#outputFile = open("outputFile.txt", "wb")
-outputList = []
-totalWords = 0
-string = open('words.txt').read()
-for word in string.split():
-    totalWords += 1
-
+# Create hierarchy for dictionary words (not yet implemented)
 dict0 = {}
 dict1 = {}
 dict2 = {}
@@ -31,21 +26,24 @@ i = 0
 #        for word in string.split():
 #            dictionary[word] = wikipedia.summary(word, sentences=2)
 #        k += 1
+
+#Creates and opens outputfile
+f = open("output.txt", 'w' )
 string = open('words.txt').read()
-while i < 100:
-    for word in string.split():
-        dictionary[word] = wikipedia.summary(word, sentences=2)
+
+# Cycles through X amount of words states status of process and wites to output file
+for word in string.splitlines():
+    while i < 10:
+        print "Calling Wiki"
+        dictionary[word] = wikipedia.summary(str(word), sentences=2)
+        print dictionary[word]
+        f.write(dictionary[word] + "\n")
+        print "Sleeping"
+        time.sleep(3)
         i += 1
 
-f = open(output, 'w' )
-f.write(dictionary)
+# Closes output file
 f.close()
 
-
+#toc
 print(time.time() - t)
-
-
-# Close opend file
-#outputFile.write( "Python is a great language.\nYeah its great!!\n");
-
-#outputFile.close()
