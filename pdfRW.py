@@ -31,17 +31,21 @@ i = 0
 
 #Creates and opens outputfile
 f = open("output.txt", 'w' )
+exceptions = open("exceptions.txt", 'w' )
 string = open('words.txt').read()
 
 # Cycles through X amount of words states status of process and wites to output file
 for word in string.splitlines():
-        dictionary[word] = wikipedia.summary(str(word), sentences=2)
+    try:
+        dictionary[word] = wikipedia.summary(str(word))
         print dictionary[word]
-        f.write(dictionary[word].encode('utf8') + "\n")
+        f.write(dictionary[word].encode('utf8') + "--&&-- \n")
         time.sleep(1)
-
+    except:
+        exception.write(dictionary[word].encode('utf8') + "--&&-- \n")
 # Closes output file
 f.close()
+exceptions.close()
 
 #toc
 print(time.time() - t)
