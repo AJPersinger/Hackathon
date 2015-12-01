@@ -2,6 +2,8 @@
 import time
 import wikipedia
 
+headers = {"User-Agent" : "MRS Hackathon MaterialsScience Bot v2 (am3798@drexel.edu)"}
+
 #tic
 t = time.time()
 
@@ -33,14 +35,10 @@ string = open('words.txt').read()
 
 # Cycles through X amount of words states status of process and wites to output file
 for word in string.splitlines():
-    while i < 10:
-        print "Calling Wiki"
         dictionary[word] = wikipedia.summary(str(word), sentences=2)
         print dictionary[word]
-        f.write(dictionary[word] + "\n")
-        print "Sleeping"
-        time.sleep(3)
-        i += 1
+        f.write(dictionary[word].encode('utf8') + "\n")
+        time.sleep(1)
 
 # Closes output file
 f.close()
