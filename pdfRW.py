@@ -29,22 +29,37 @@ i = 0
 #            dictionary[word] = wikipedia.summary(word, sentences=2)
 #        k += 1
 
+# Opens the output file to see the last query and starts from there
+readLines = 0
+oldFile = open("output.txt").read()
+oldFile = str(oldFile)
+oldFile = oldFile.split()
+readLines = oldFile.count("--&&--") 
+print readLines
+
 #Creates and opens outputfile
-f = open("output.txt", 'w' )
-exceptions = open("exceptions.txt", 'w' )
+f = open("output.txt", 'a' )
+exceptions = open("exceptions.txt", 'a' )
 string = open('words.txt').read()
 
+shortList = string.splitlines()[readLines:]
+
 # Cycles through X amount of words states status of process and wites to output file
-for word in string.splitlines():
+for word in shortList:
     try:
         dictionary[word] = wikipedia.summary(str(word))
-        print dictionary[word]
+        print (dictionary[word] + "\n --&&-- \n")
         f.write(dictionary[word].encode('utf8') + "\n --&&-- \n")
         time.sleep(1)
-    except Exception as e:
-        exceptions.write(dictionary[word].encode('utf8') + "\n --&&-- \n")
+        print(time.time() - t)
+    except KeyError as e:
+        exceptions.write(word.encode('utf8') + "\n --&&-- \n")
+        print "EXCEPTION CAUGHT AT: " + word + " BECAUSE: " + e
+    except:
+        exceptions.write(word.encode('utf8') + "\n --&&-- \n")
         print "EXCEPTION CAUGHT AT: " + word
-        break
+
+
 # Closes output file
 f.close()
 exceptions.close()

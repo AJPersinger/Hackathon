@@ -1,0 +1,4 @@
+Dinitrogen trioxide is the chemical compound with the formula N2O3. This deep blue solid is one of the binary nitrogen oxides. It forms upon mixing equal parts of nitric oxide and nitrogen dioxide and cooling the mixture below −21 °C (−6 °F):
+NO + NO2  N2O3
+Dinitrogen trioxide is only isolable at low temperatures, i.e. in the liquid and solid phases. At higher temperatures the equilibrium favors the constituent gases, with Kdiss = 193 kPa (25 °C).
+ --&&-- 
