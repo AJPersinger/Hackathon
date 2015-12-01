@@ -88,9 +88,9 @@ Thermophoresis
 Tobacco smoke
 Alabaster
 Alabastron
-All Saints%27 Church, Harewood
+All Saints' Church, Harewood
 Bosom of Abraham Trinity
-Camerini d%27alabastro
+Camerini d'alabastro
 Castellina Marittima
 Francis Cheetham
 Chellaston
@@ -278,7 +278,7 @@ Chlordiazepoxide
 Codeine-N-oxide
 Dimethyltryptamine-N-oxide
 Dinaciclib
-4,4%27-Dinitro-3,3%27-diazenofuroxan
+4,4'-Dinitro-3,3'-diazenofuroxan
 Furoxan
 4-Hydroxy-TEMPO
 N-Hydroxypiperidine
@@ -497,7 +497,7 @@ Protocyanin
 Violdelphin
 Anthocyanidin 3-O-glucosyltransferase
 Anthocyanidin reductase
-Anthocyanin 3-O-glucoside 6%27%27-O-hydroxycinnamoyltransferase
+Anthocyanin 3-O-glucoside 6''-O-hydroxycinnamoyltransferase
 Anthocyanin 5-aromatic acyltransferase
 Anthocyanin 5-O-glucosyltransferase
 Ardaite
@@ -816,7 +816,7 @@ Hanle effect
 Highly charged ion
 Hollow atoms
 Hollow-cathode lamp
-Hund%27s rules
+Hund's rules
 Hyperfine structure
 Inert pair effect
 Interatomic Coulombic decay
@@ -841,7 +841,7 @@ Magnetic quantum number
 Magnetic trap (atoms)
 Mirror nuclei
 Molecular term symbol
-Moseley%27s law
+Moseley's law
 Mott–Bethe formula
 Noble gas configuration
 Open shell
@@ -876,7 +876,7 @@ Shielding effect
 Siegbahn notation
 Silex
 Slater integrals
-Slater%27s rules
+Slater's rules
 Solid harmonics
 Sommerfeld–Kossel displacement law
 Spectroscopic notation
@@ -899,7 +899,7 @@ Ultracold atom
 Uncleftish Beholding
 Vacuum Rabi oscillation
 Vibrational temperature
-Wiswesser%27s rule
+Wiswesser's rule
 X-ray fluorescence
 X-ray notation
 X-ray photoelectron spectroscopy
@@ -1146,7 +1146,7 @@ Brick
 Brick-lined well
 Eco-Block
 Amsterdam School
-Banna%27i
+Banna'i
 Bradley & Craven Ltd
 Brick clamp
 Brick Expressionism
@@ -1534,7 +1534,7 @@ Wollastonite
 Woodhouseite
 Wyartite
 Xonotlite
-Ye%27elimite
+Ye'elimite
 Yttrocerite
 Zirconolite
 Zirkelite
@@ -1615,7 +1615,7 @@ Carbon capture and storage (timeline)
 Carbon carousel
 Carbon dioxide (data page)
 Carbon dioxide equivalent
-Carbon dioxide in Earth%27s atmosphere
+Carbon dioxide in Earth's atmosphere
 Carbon dioxide reforming
 Carbon dioxide removal
 Carbon dioxide scrubber
@@ -1979,7 +1979,7 @@ Frigorific mixture
 Fugacity
 Fugacity capacity
 Gibbs–Duhem equation
-Hess%27s law
+Hess's law
 Ideal solution
 Margules function
 Overlapping distribution method
@@ -1987,7 +1987,7 @@ Partial molar property
 Pitzer equations
 Regular solution
 Spontaneous process
-Stefan%27s formula
+Stefan's formula
 Terrace ledge kink model
 Thermodynamic versus kinetic reaction control
 Chemical vapor deposition of ruthenium
@@ -2126,7 +2126,7 @@ Lead tetrachloride
 Lead(II) chloride
 Lutetium(III) chloride
 Magnesium chloride
-Magnus%27 green salt
+Magnus' green salt
 Manganese(II) chloride
 Mendipite
 Mercury(I) chloride
@@ -2321,7 +2321,7 @@ Nankai Trough gas hydrate site
 Clathrate compound
 Chibaite
 Clathrate gun hypothesis
-Dianin%27s compound
+Dianin's compound
 Azadodecaborane
 Boron-based Carborane Acid
 Butterfly cluster compound
@@ -2386,7 +2386,7 @@ Fly ash
 Green coke
 Gyttja
 Hardgrove Grindability Index
-Hilt%27s law
+Hilt's law
 Interactive Energy AG
 Jet (lignite)
 Karrick process
@@ -2421,7 +2421,7 @@ Spherocobaltite
 Tyrrellite
 File:Smaltite.jpg
 Cold fusion
-13 Things That Don%27t Make Sense
+13 Things That Don't Make Sense
 Yoshiaki Arata
 Bad Science: The Short Life and Weird Times of Cold Fusion
 Bubble fusion
@@ -2537,7 +2537,7 @@ Relative permittivity
 Settling
 Sol (colloid)
 Solution
-Stokes%27 law of sound attenuation
+Stokes' law of sound attenuation
 Streaming current
 Streaming potential
 Streaming potential/current
@@ -2556,7 +2556,7 @@ Water-in-water emulsion
 Zeta potential
 Zeta potential titration
 Zubbles
-Bredig%27s arc method
+Bredig's arc method
 Butter
 Foam
 Freeze-casting
@@ -2612,10 +2612,10 @@ Bose-Einstein condensation of quasiparticles
 Bose–Hubbard model
 Bosenova
 Bosonization
-Bragg%27s law
+Bragg's law
 Bravais lattice
 Oliver E. Buckley Condensed Matter Prize
-Cassie%27s law
+Cassie's law
 Cation-anion radius ratio
 Cavity method
 CeCoIn5
@@ -2673,7 +2673,7 @@ Electronic entropy
 Empty lattice approximation
 Enhancement or quenching of QD, Q-wire and QW radiations
 EPS Europhysics Prize
-Ewald%27s sphere
+Ewald's sphere
 Exchange bias
 Exciton
 Extended X-ray absorption fine structure
@@ -2717,7 +2717,7 @@ Helium
 Hidden states of matter
 High-temperature superconductivity
 History of superconductivity
-Hofstadter%27s butterfly
+Hofstadter's butterfly
 Hubbard model
 Institut Néel
 Interatomic potential
@@ -2753,7 +2753,7 @@ Local density of states
 Localized surface plasmon
 Low-energy electron diffraction
 Luttinger liquid
-Luttinger%27s theorem
+Luttinger's theorem
 Luttinger–Kohn model
 Lyddane–Sachs–Teller relation
 Macroscopic quantum phenomena
@@ -2769,7 +2769,7 @@ Mesoscopic physics
 Metal–insulator transition
 Metastable inner-shell molecular state
 Metastate
-Mitscherlich%27s law
+Mitscherlich's law
 Mode coupling
 Roderich Moessner
 Mössbauer effect
@@ -2963,7 +2963,7 @@ Averaged Lagrangian
 Bending moment
 Bending of plates
 Bending stiffness
-Betti%27s theorem
+Betti's theorem
 Bimoment
 Birch–Murnaghan equation of state
 Brinkman number
@@ -2973,7 +2973,7 @@ Cauchy elastic material
 Cauchy momentum equation
 Cauchy number
 Cauchy stress tensor
-Clapeyron%27s theorem (elasticity)
+Clapeyron's theorem (elasticity)
 Clausius–Duhem inequality
 Collapsible flow
 Compatibility (mechanics)
@@ -2995,7 +2995,7 @@ Elastica theory
 Ensemble (fluid mechanics)
 Enstrophy
 A. Cemal Eringen
-Eshelby%27s inclusion
+Eshelby's inclusion
 Extended finite element method
 Ferrofluid
 Finite element method
@@ -3149,7 +3149,7 @@ Coolgardie safe
 Cooling bath
 Cooling pond
 Cooling tower
-Cooling tower%27s contact fill
+Cooling tower's contact fill
 Cryoablation
 Cryocooler
 Cryogenics
@@ -3578,7 +3578,7 @@ Oh-My-God particle
 OREOcube
 Bonnard J. Teegarden
 Ultra-high-energy cosmic ray
-File:Moon%27s shadow in muons.gif
+File:Moon's shadow in muons.gif
 Critical phenomena
 Multicritical point
 Abelian sandpile model
@@ -3617,7 +3617,7 @@ Crown ether
 Dibenzo-18-crown-6
 Metallacrown
 Acholeplasma
-Cope%27s gray tree frog
+Cope's gray tree frog
 Cryozoa
 Gray tree frog
 Mycoplasma mycoides
@@ -3714,8 +3714,8 @@ Facet
 Fibonacci quasicrystal
 Flux method
 Fractional coordinates
-Friedel%27s law
-Friedel%27s salt
+Friedel's law
+Friedel's salt
 Geometry index
 Glide plane
 Goldschmidt tolerance factor
@@ -3855,7 +3855,7 @@ Nd:YCOB
 Neodymium-doped yttrium lithium fluoride
 Neodymium-doped yttrium orthovanadate
 Oscillator strength
-Pauling%27s rules
+Pauling's rules
 Perfect crystal
 Polycrystalline silicon
 Potassium aluminium borate
@@ -4077,7 +4077,7 @@ Airy disk
 Analytical regularization
 Arago spot
 Atmospheric diffraction
-Babinet%27s principle
+Babinet's principle
 Coherent diffraction imaging
 Diffraction efficiency
 Diffraction grating
@@ -4103,7 +4103,7 @@ International Centre for Diffraction Data
 InXitu
 Kapitsa–Dirac effect
 Kikuchi line
-Kirchhoff%27s diffraction formula
+Kirchhoff's diffraction formula
 Length measurement
 Long-period fiber grating
 Long-slit spectroscopy
@@ -4139,7 +4139,7 @@ Effective diffusion coefficient
 Ehrenfest model
 Equimolar counterdiffusion
 Facilitated diffusion
-Fick%27s laws of diffusion
+Fick's laws of diffusion
 File dynamics
 Fink effect
 Forward osmosis
@@ -4228,7 +4228,7 @@ Womersley number
 Coefficient of performance
 Energy conversion efficiency
 Fourier number
-Henry%27s Law constant
+Henry's Law constant
 Particle number
 Stefan number
 Stuart number
@@ -4255,7 +4255,7 @@ Protein dimer
 Pyrimidine dimer
 Rhodium carbonyl chloride
 Tris(dimethylamino)aluminium dimer
-Cat%27s-whisker detector
+Cat's-whisker detector
 Diode
 1N4001 and 1N5400 series diodes
 1N4148
@@ -4264,7 +4264,7 @@ Avalanche diode
 Back-to-back connection
 Backward diode
 BZX79 voltage regulator diodes
-Chua%27s diode
+Chua's diode
 Constant-current diode
 DIAC
 Diode memory
@@ -4451,7 +4451,7 @@ Relativistic angular momentum
 Resultant force
 Rotatum
 Rotordynamics
-Siacci%27s theorem
+Siacci's theorem
 Structural dynamics
 Two-mass-skate bicycle
 Udwadia–Kalaba equation
@@ -4470,30 +4470,30 @@ Elastic compliance tensor
 Elastic mechanisms in animals
 Elasticity (physics)
 Elasto-capillarity
-Euler%27s critical load
+Euler's critical load
 Euler–Bernoulli beam theory
 Fatigue limit
 Flamant solution
 Flexural modulus
 GRADELA
-Hooke%27s law
+Hooke's law
 Infinitesimal strain theory
 User:Jojodesbatignoles/sandbox
 Lamb waves
 Lamé parameters
-Lame%27s stress ellipsoid
+Lame's stress ellipsoid
 Linear elasticity
 Love number
 Michell solution
-Mohr%27s circle
+Mohr's circle
 P-wave modulus
 Perry Robertson formula
-Poisson%27s ratio
+Poisson's ratio
 Rainflow-counting algorithm
 Resilience (materials science)
-Saint-Venant%27s compatibility condition
-Saint-Venant%27s Principle
-Saint-Venant%27s theorem
+Saint-Venant's compatibility condition
+Saint-Venant's Principle
+Saint-Venant's theorem
 Seismic anisotropy
 Shear modulus
 Spring system
@@ -4506,19 +4506,19 @@ Tangent modulus
 Thermoelastic damping
 Ultimate tensile strength
 Visco-elastic jets
-Young%27s modulus
+Young's modulus
 Electric discharge in gases
 Arc suppression
 Electric arc
 Glow discharge
-Paschen%27s law
+Paschen's law
 Townsend discharge
 Abraham–Minkowski controversy
 Bioelectrospray
 Bohr–van Leeuwen theorem
 Charge ordering
 Cole–Cole equation
-Curie%27s law
+Curie's law
 Demagnetizing field
 Diamagnetism
 Dielectric
@@ -4615,7 +4615,7 @@ Hohlraum
 Incandescence
 Infrared sensing in snakes
 Isothermal Technology
-Kirchhoff%27s law of thermal radiation
+Kirchhoff's law of thermal radiation
 Kvikk case
 Liénard–Wiechert potential
 Light bullet
@@ -4702,7 +4702,7 @@ Relativistic electron beam
 Scanning transmission electron microscopy
 Sterilization (microbiology)
 Transmission electron microscopy
-Anderson%27s rule
+Anderson's rule
 Band bending
 Band gap
 Band offset
@@ -4781,13 +4781,13 @@ Primary energy
 Air preheater
 Bimetallic strip
 Cylinder (engine)
-Dalton%27s law
-Dühring%27s rule
+Dalton's law
+Dühring's rule
 Dynamic insulation
 Equation of state
 Expander cycle
 Heat of combustion
-Henry%27s law
+Henry's law
 Hydrocarbon dew point
 Inversion temperature
 Jet engine
@@ -4796,7 +4796,7 @@ Liquid air
 Partial pressure
 Piston-cylinder apparatus
 Plant efficiency
-Raoult%27s law
+Raoult's law
 Recuperator
 Redlich–Kwong equation of state
 Reid vapor pressure
@@ -4827,7 +4827,7 @@ Standard enthalpy of reaction
 Entropy
 Adrian Bejan
 Chaotropic activity
-Dudley%27s theorem
+Dudley's theorem
 Enthalpy–entropy chart
 Entropy (astrophysics)
 The Entropy Influence Conjecture
@@ -4878,7 +4878,7 @@ Ion-association
 Irving–Williams series
 Isohydric principle
 Law of mass action
-Le Chatelier%27s principle
+Le Chatelier's principle
 Mineralizer
 Oxyanion
 Partition coefficient
@@ -4899,7 +4899,7 @@ Stability constants of complexes
 Sulfuric acid
 Thermal hydrolysis
 Thermodynamic equilibrium
-Van %27t Hoff equation
+Van 't Hoff equation
 Etching (microfabrication)
 Advanced silicon etching
 Atomic layer etching
@@ -5376,7 +5376,7 @@ Oldstone Conference
 Phase space formulation
 Photon energy
 Planck postulate
-Planck%27s law
+Planck's law
 Planck–Einstein relation
 Plum pudding model
 Pocono Conference
@@ -5389,7 +5389,7 @@ Stern–Gerlach experiment
 Transformation theory (quantum mechanics)
 Ultraviolet catastrophe
 Wave–particle duality
-Wien%27s displacement law
+Wien's displacement law
 Wigner–Weyl transform
 Zeeman effect
 Abutment
@@ -5443,7 +5443,7 @@ Fountains of International Expositions
 GlobalTap
 Howz
 Hydraulophone
-Jeux d%27eau
+Jeux d'eau
 Kangwon Land
 Kugel ball
 Mercury fountain
@@ -5481,7 +5481,7 @@ Goodman relation
 Impact (mechanics)
 Intergranular fracture
 Microvoid coalescence
-Paris%27 law
+Paris' law
 Rsl testing
 SESAM (FEM)
 Shock (mechanics)
@@ -5527,20 +5527,20 @@ File:C60interc.PNG
 Fusible alloy
 Britannia metal
 English pewter
-Field%27s metal
+Field's metal
 Galinstan
 Lead-bismuth eutectic
 Lead-tin solder
 Liquid metal
 NaK
-Newton%27s metal
+Newton's metal
 Pewter
-Queen%27s metal
-Rose%27s metal
+Queen's metal
+Rose's metal
 Solder
 Terne
 Tin-silver-copper
-Wood%27s metal
+Wood's metal
 Fusion power
 List of fusion power technologies
 Aneutronic fusion
@@ -5734,7 +5734,7 @@ Sunstone
 Tanzanite
 Thulite
 Thunderegg
-Tiger%27s eye
+Tiger's eye
 Topaz
 Tourmaline
 Trilliant cut
@@ -5817,7 +5817,7 @@ Mechanically stabilized earth
 Mining rock mass rating
 Neoweb
 New Austrian Tunnelling method
-Newmark%27s sliding block
+Newmark's sliding block
 Novel Polymeric Alloy
 Nuclear densometer
 Observational method (geotechnics)
@@ -5991,7 +5991,7 @@ Underglaze
 Uranium glass
 Vitreous enamel
 Vitrite
-Wood%27s glass
+Wood's glass
 Ernst Abbe
 All-silica fiber
 Annealing (glass)
@@ -6110,7 +6110,7 @@ Janka hardness test
 Knoop hardness test
 Leeb rebound hardness test
 Meyer hardness test
-Meyer%27s law
+Meyer's law
 Mohs scale of mineral hardness
 Nanoindentation
 Nanoindenter
@@ -6148,8 +6148,8 @@ Heat kernel
 Heat pipe
 Laser flash analysis
 Multi-layer insulation
-Newton%27s law of cooling
-Searle%27s bar method
+Newton's law of cooling
+Searle's bar method
 Interfacial thermal resistance
 Thermal conduction
 List of thermal conductivities
@@ -6203,7 +6203,7 @@ Cooling load
 Countercurrent exchange
 Crookes radiometer
 Decay heat
-Earth%27s internal heat budget
+Earth's internal heat budget
 Effect of radiation on perceived temperature
 Effectiveness
 Efficiency
@@ -6212,7 +6212,7 @@ Emissivity
 Film temperature
 Fin (extended surface)
 Gebhart factor
-Green%27s function number
+Green's function number
 Heat
 Heat current
 Heat kernel signature
@@ -6312,7 +6312,7 @@ Wurtzite
 Zaccagnaite
 Zincite
 Hidden variable theory
-Bell%27s theorem
+Bell's theorem
 Kochen–Specker theorem
 Local hidden variable theory
 PBR theorem
@@ -6330,10 +6330,10 @@ Pseudogap
 Superstripes
 Thallium barium calcium copper oxide
 Hilbert space
-Bessel%27s inequality
+Bessel's inequality
 Calkin correspondence
 Category of finite-dimensional Hilbert spaces
-Céa%27s lemma
+Céa's lemma
 Commutator subspace
 Compact operator on Hilbert space
 Coorbit theory
@@ -6341,11 +6341,11 @@ Cotlar–Stein lemma
 Dixmier trace
 Energetic space
 Euler–Maclaurin formula
-Gleason%27s theorem
+Gleason's theorem
 Hadamard space
 Jacobi operator
 Kirszbraun theorem
-Kuiper%27s theorem
+Kuiper's theorem
 Moment problem
 Morse–Palais lemma
 Positive-definite kernel
@@ -6363,7 +6363,7 @@ Topological tensor product
 Tree kernel
 Weak convergence (Hilbert space)
 Weak trace-class operator
-Wigner%27s theorem
+Wigner's theorem
 Honeycomb (geometry)
 120-cell honeycomb
 16-cell honeycomb honeycomb
@@ -6503,13 +6503,13 @@ Weaire–Phelan structure
 Communicating vessels
 Hydrostatics
 Hydrostatic equilibrium
-Pascal%27s barrel
-Pascal%27s law
+Pascal's barrel
+Pascal's law
 Profile of equal resistance
 Ruina montium
 Water potential
-Decarboxylated 8,5%27-diferulic acid
-8,5%27-Diferulic acid
+Decarboxylated 8,5'-diferulic acid
+8,5'-Diferulic acid
 Diferulic acids
 Triferulic acid
 Barium hypochlorite
@@ -6738,7 +6738,7 @@ Jamin interferometer
 Large Aperture Experiment to Detect the Dark Ages
 LIGO
 Linnik interferometer
-Lloyd%27s mirror
+Lloyd's mirror
 Lummer–Gehrcke interferometer
 Mach–Zehnder interferometer
 Magdalena Ridge Observatory
@@ -7186,15 +7186,15 @@ Zeroth law of thermodynamics
 First law of thermodynamics
 Second law of thermodynamics
 Third law of thermodynamics
-Bergmann%27s rule
-Carnot%27s theorem (thermodynamics)
+Bergmann's rule
+Carnot's theorem (thermodynamics)
 Clausius theorem
 Conservation of energy
-Duncan%27s Paradox
+Duncan's Paradox
 Equipartition theorem
-Ginsberg%27s theorem
-Kopp%27s law
-Neumann%27s law
+Ginsberg's theorem
+Kopp's law
+Neumann's law
 Onsager reciprocal relations
 Triple product rule
 Alquifou
@@ -7277,7 +7277,7 @@ AmBX
 Anti-collision light
 Crystal LED
 Global OLED Technology LLC
-Haitz%27s law
+Haitz's law
 High CRI LED lighting
 L Prize
 LED art
@@ -7316,7 +7316,7 @@ Cholesteryl chloride
 Cholesteryl nonanoate
 Cholesteryl oleyl carbonate
 Columnar phase
-4-Cyano-4%27-pentylbiphenyl
+4-Cyano-4'-pentylbiphenyl
 Discotic liquid crystal
 Distortion free energy density
 Ericksen number
@@ -7430,7 +7430,7 @@ Kell Brothers
 Edwin La Dell
 Nándor Mikola
 Emil Orlík
-Pendleton%27s Lithography
+Pendleton's Lithography
 Mikhail Peskov
 August Georg Wilhelm Pezold
 Jan Feliks Piwarski
@@ -7449,10 +7449,10 @@ Henry Vianden
 Vincent Brooks, Day & Son
 Tim White-Sobieski
 Christ (Lithograph)
-Columbia%27s Courtship
+Columbia's Courtship
 Divan Japonais (lithograph)
 The Great Bear (lithograph)
-Les Maîtres de l%27Affiche
+Les Maîtres de l'Affiche
 Salon Pedal
 Ten Dollar Bill (Roy Lichtenstein)
 Zapata (lithograph)
@@ -7729,7 +7729,7 @@ Supermalloy
 Magnetic monopole
 Dyon
 Herta Regina Leng
-%27t Hooft–Polyakov monopole
+'t Hooft–Polyakov monopole
 Wu–Yang monopole
 Anisotropy energy
 Antiferromagnetism
@@ -7933,7 +7933,7 @@ Functionally graded material
 Galvanoluminescence
 Generalized Maxwell model
 Grain growth
-Hankinson%27s equation
+Hankinson's equation
 HARMST
 Helium atom scattering
 Hertzian cone
@@ -8049,14 +8049,14 @@ Reverse roll coating
 Rigidity theory (physics)
 Rule of mixtures
 Rutherford backscattering spectrometry
-Schmid%27s Law
+Schmid's Law
 Scleroscope
 Segregation in materials
 Self-healing material
 Shear band
 Shrink-fitting
 SiC/SiC Matrix Composite
-Sieverts%27 law
+Sieverts' law
 Slip (materials science)
 Slow release
 Smart cut
@@ -8244,7 +8244,7 @@ Gold triiodide
 Hafnium tetraiodide
 Hydrargyrum quartz iodide
 Indium halides
-Krogmann%27s salt
+Krogmann's salt
 Lead(II) iodide
 Magnesium iodide
 Manganese(II) iodide
@@ -8361,7 +8361,7 @@ Newbery-Vautin chlorination process
 Pan amalgamation
 Parkes process
 Patio process
-Pattison%27s Process
+Pattison's Process
 Pidgeon process
 Plasma transferred wire arc thermal spraying
 Platinum Metals Review
@@ -8420,7 +8420,7 @@ Casting defect
 Cementite
 Chafery
 Chemical Metallurgy
-Chvorinov%27s rule
+Chvorinov's rule
 Coil coating
 Compacted oxide layer glaze
 Continuous cooling transformation
@@ -8506,7 +8506,7 @@ Sustained load cracking
 Tin pest
 Transient liquid phase diffusion bonding
 Uranium metallurgy
-Vegard%27s law
+Vegard's law
 Whisker (metallurgy)
 Zener–Hollomon parameter
 Copper in health
@@ -8589,7 +8589,7 @@ Superlens
 Terahertz metamaterials
 Tunable metamaterials
 File:Applications of Metamaterials by Flippo Capolina.jpg
-File:Bose%27s demnstrated apparatus.gif
+File:Bose's demnstrated apparatus.gif
 File:Commonly used metallic nanoprobes.jpg
 File:Engheta N Ziolkowski R Metamaterials.jpg
 File:Photo of metamaterial lattice for negative refraction.jpg
@@ -8678,7 +8678,7 @@ UniPROBE
 Virtual karyotype
 Bio-MEMS
 Bulk micromachining
-CEA-Leti: Laboratoire d%27électronique des technologies de l%27information
+CEA-Leti: Laboratoire d'électronique des technologies de l'information
 InvenSense
 List of MEMS foundries
 Fariborz Maseeh
@@ -8972,7 +8972,7 @@ Ellsworthite
 Ferricrete
 Ferropericlase
 Flint
-Fuller%27s earth
+Fuller's earth
 Geikielite
 Gembone
 Hatchettite
@@ -9017,12 +9017,12 @@ Minimal surface
 Almgren–Pitts min-max theory
 Associate family
 Björling problem
-Bour%27s minimal surface
+Bour's minimal surface
 Bryant surface
-Catalan%27s minimal surface
+Catalan's minimal surface
 Catenoid
 Chen–Gackstatter surface
-Costa%27s minimal surface
+Costa's minimal surface
 Double bubble conjecture
 Enneper surface
 Gyroid
@@ -9033,10 +9033,10 @@ K-noid
 Lidinoid
 Minimal surface of revolution
 Neovius surface
-Plateau%27s laws
-Plateau%27s problem
+Plateau's laws
+Plateau's problem
 Richmond surface
-Riemann%27s minimal surface
+Riemann's minimal surface
 Saddle tower
 Scherk surface
 Schwarz minimal surface
@@ -9326,7 +9326,7 @@ Methyl cyanoacrylate
 Methyl isocyanate
 Methyl methacrylate
 4-Methyl-1-pentene
-N,N%27-Methylenebisacrylamide
+N,N'-Methylenebisacrylamide
 Methylene diphenyl diisocyanate
 Alpha-Methylstyrene
 Neopentyl glycol
@@ -9392,7 +9392,7 @@ Penrite Oil Company
 Pentosin
 Red Line Synthetic Oil Corporation
 Royal Purple (lubricant manufacturer)
-Wolf%27s Head (motor oil)
+Wolf's Head (motor oil)
 Catastrophin
 DCTN6
 Dynactin
@@ -9604,7 +9604,7 @@ Langmuir–Blodgett film
 Linear acetylenic carbon
 Lotus effect
 Magnetic 3D Bioprinting
-Maxwell%27s demon
+Maxwell's demon
 Mechanosynthesis
 MEMS for in situ mechanical characterization
 Micromotor
@@ -9779,7 +9779,7 @@ Neutron spin echo
 Neutron stimulated emission computed tomography
 Neutron time-of-flight scattering
 Neutron-acceptance diagram shading
-Porod%27s law
+Porod's law
 Quasielastic neutron scattering
 Quasielastic scattering
 Varley F. Sears
@@ -9871,7 +9871,7 @@ Nitronium perchlorate
 Nitronium tetrafluoroborate
 Non-coordinating anion
 Bistriflimide
-Brookhart%27s acid
+Brookhart's acid
 Tetrachloroaluminate
 Tetrafluoroborate
 Acoustic resonance technology
@@ -9945,7 +9945,7 @@ Green–Kubo relations
 H-theorem
 Jarzynski equality
 Kelvin–Planck statement
-Loschmidt%27s paradox
+Loschmidt's paradox
 Maximum entropy thermodynamics
 Néel relaxation theory
 Nonequilibrium partition identity
@@ -10010,7 +10010,7 @@ Second-order fluid
 Silly Putty
 Slime (toy)
 Temperature dependence of liquid viscosity
-Trouton%27s ratio
+Trouton's ratio
 Upper-convected Maxwell model
 Upper-convected time derivative
 Wagner model
@@ -10233,7 +10233,7 @@ Radiation protection
 Radioactive displacement law of Fajans and Soddy
 Radionuclide
 Radium and radon in the environment
-Ronen%27s golden rule for cluster radioactivity
+Ronen's golden rule for cluster radioactivity
 Rp-process
 Rutherford Medal and Prize
 Seed nucleus
@@ -10343,7 +10343,7 @@ Choji oil
 Chrism
 Coal oil
 Danish oil
-Dippel%27s oil
+Dippel's oil
 Drying oil
 Fragrance extraction
 Heating oil
@@ -10686,7 +10686,7 @@ Wad
 File:Cassiterite.jpg
 Olation
 Actinium(III) oxide
-Adams%27s catalyst
+Adams's catalyst
 Alkali metal oxide
 Aluminium oxide
 Aluminium(I) oxide
@@ -11047,9 +11047,9 @@ Silicate perovskite
 Perturbation theory
 Perturbation theory (quantum mechanics)
 Eigenvalue perturbation
-Fermi%27s golden rule
+Fermi's golden rule
 Intruder state
-Laplace%27s method
+Laplace's method
 Method of steepest descent
 Multiple-scale analysis
 Non-perturbative
@@ -11058,7 +11058,7 @@ Perturbation problem beyond all orders
 Poincaré–Lindstedt method
 Ritz method
 Saddlepoint approximation method
-Schwinger%27s quantum action principle
+Schwinger's quantum action principle
 Sequence transformation
 Series acceleration
 Singular perturbation
@@ -11120,7 +11120,7 @@ Rapid phase transition
 Recrystallization (chemistry)
 Retrograde condensation
 Saturation dome
-Schreinemaker%27s analysis
+Schreinemaker's analysis
 Simon–Glatzel equation
 Slip melting point
 Sublimation apparatus
@@ -11843,8 +11843,8 @@ Hippopotamus service
 Iroquois China Company
 Joseon white porcelain
 Judenporzellan
-Le Tallec%27s marks
-Le Tallec%27s patterns
+Le Tallec's marks
+Le Tallec's patterns
 Camille Le Tallec
 Lenox (company)
 Walter Scott Lenox
@@ -11923,7 +11923,7 @@ Relative permeability
 Special core analysis
 Specific surface area
 Tortuosity
-Washburn%27s equation
+Washburn's equation
 Zeolite
 Porphyrin
 Chlorophyll c
@@ -11962,7 +11962,7 @@ Gold parting
 Gold-filled jewelry
 Hallmark
 Hierarchy of precious substances
-Ironstone%27s Crown Jewel
+Ironstone's Crown Jewel
 Philip Klapwijk
 London bullion market
 Métaux Précieux SA Métalor
@@ -12043,7 +12043,7 @@ Bond hardening
 Bond softening
 Born–Huang approximation
 Born–Oppenheimer approximation
-Brillouin%27s theorem
+Brillouin's theorem
 CHELPG
 Chemical bond
 Complete active space
@@ -12078,14 +12078,14 @@ Grimm–Sommerfeld rule
 Hamiltonian (quantum mechanics)
 Holstein–Herring method
 HOMO/LUMO
-Hooke%27s atom
-Hund%27s rule of maximum multiplicity
+Hooke's atom
+Hund's rule of maximum multiplicity
 International Academy of Quantum Molecular Science
 Intramolecular Vibrational Energy Redistribution
 Isovalent hybridization
 Journal of Chemical Theory and Computation
-Kasha%27s rule
-Koopmans%27 theorem
+Kasha's rule
+Koopmans' theorem
 LCP theory
 Localized molecular orbitals
 Molecular Hamiltonian
@@ -12102,7 +12102,7 @@ Orbital hybridisation
 Orbital overlap
 Path integral molecular dynamics
 Path integral Monte Carlo
-Pauling%27s principle of electroneutrality
+Pauling's principle of electroneutrality
 Photovoltaics
 Post-Hartree–Fock
 Potential energy of protein
@@ -12176,7 +12176,7 @@ Common integrals in quantum field theory
 History of quantum field theory
 List of quantum field theories
 Quantum field theory
-%27t Hooft operator
+'t Hooft operator
 (−1)F
 6D (2,0) superconformal field theory
 ABJM superconformal field theory
@@ -12204,8 +12204,8 @@ Bispinor
 Bogoliubov causality condition
 Bogoliubov transformation
 Bogoliubov–Parasyuk theorem
-Bogomol%27nyi–Prasad–Sommerfield bound
-Bogomol%27nyi–Prasad–Sommerfield state
+Bogomol'nyi–Prasad–Sommerfield bound
+Bogomol'nyi–Prasad–Sommerfield state
 Borchers algebra
 Born–Infeld model
 Bose–Einstein statistics
@@ -12261,12 +12261,12 @@ Edge-of-the-wedge theorem
 Effective action
 Einstein–Maxwell–Dirac equations
 Elementary particle
-Elitzur%27s theorem
+Elitzur's theorem
 ELKO field
 Faddeev–Popov ghost
 False vacuum
 Fano resonance
-Fermi%27s interaction
+Fermi's interaction
 Fermionic field
 Feynman diagram
 Feynman parametrization
@@ -12293,11 +12293,11 @@ Gopakumar–Vafa invariant
 Grassmann integral
 Grassmann number
 Graviphoton
-Green%27s function (many-body theory)
+Green's function (many-body theory)
 Gribov ambiguity
 Gross–Neveu model
 GW approximation
-Haag%27s theorem
+Haag's theorem
 Hamilton–Jacobi–Einstein equation
 Hamiltonian field theory
 Hawking radiation
@@ -12348,8 +12348,8 @@ Newton–Wigner localization
 Nielsen–Olesen vortex
 Nielsen–Olsen string
 No-go theorem
-Noether%27s second theorem
-Noether%27s theorem
+Noether's second theorem
+Noether's theorem
 Non-linear sigma model
 Non-topological soliton
 Nonlocal Lagrangian
@@ -12388,7 +12388,7 @@ Quartic interaction
 Qubit field theory
 Reeh–Schlieder theorem
 Regularization (physics)
-Relation between Schrödinger%27s equation and the path integral formulation of quantum mechanics
+Relation between Schrödinger's equation and the path integral formulation of quantum mechanics
 Relationship between string theory and quantum field theory
 Relativistic Breit–Wigner distribution
 Relativistic wave equations
@@ -12468,9 +12468,9 @@ Weinberg–Witten theorem
 Wess–Zumino–Witten model
 Weyl semimetal
 Wick rotation
-Wick%27s theorem
+Wick's theorem
 Wightman axioms
-Wigner%27s classification
+Wigner's classification
 Wilson loop
 Yukawa interaction
 Yukawa potential
@@ -12591,7 +12591,7 @@ Range criterion
 Reduced dynamics
 Reduction criterion
 Separable state
-Shor%27s algorithm
+Shor's algorithm
 Squashed entanglement
 State-merging
 Steane code
@@ -12626,7 +12626,7 @@ Delayed choice quantum eraser
 Elitzur–Vaidman bomb tester
 EPR paradox
 GHZ experiment
-Hardy%27s paradox
+Hardy's paradox
 Heisenberg cut
 Heisenberg limit
 HPO formalism
@@ -12636,7 +12636,7 @@ Mott problem
 Multiple histories
 Philosophical interpretation of classical physics
 Photon entanglement
-Popper%27s experiment
+Popper's experiment
 POVM
 Principle of locality
 Probability amplitude
@@ -12649,20 +12649,20 @@ Quantum nondemolition measurement
 Quantum suicide and immortality
 Quantum Zeno effect
 Renninger negative-result experiment
-Schrödinger%27s cat
+Schrödinger's cat
 SIC-POVM
 Totalitarian principle
-Tsirelson%27s bound
+Tsirelson's bound
 Universal wavefunction
 Wave function collapse
-Wigner%27s friend
+Wigner's friend
 Entanglement distillation
 Braunstein-Ghosh-Severini Entropy
 Coherent information
 Conditional quantum entropy
 Generalized relative entropy
 Entropic uncertainty
-Holevo%27s theorem
+Holevo's theorem
 Joint quantum entropy
 Lieb conjecture
 Linear entropy
@@ -12694,7 +12694,7 @@ Are Quanta Real (book)
 Arthur Komar
 Atom laser
 Auxiliary field Monte Carlo
-Bargmann%27s limit
+Bargmann's limit
 Berry connection and curvature
 Bit-string physics
 BKS theory
@@ -12708,7 +12708,7 @@ C-number
 Calogero conjecture
 Canonical commutation relation
 Categorical quantum mechanics
-Chladni%27s law
+Chladni's law
 Classical and quantum conductivity
 Classical limit
 Clebsch–Gordan coefficients for SU(3)
@@ -12738,7 +12738,7 @@ Dirac spectrum
 Dissipation model for extended environment
 Double ionization
 Drell–Yan process
-Duane%27s hypothesis
+Duane's hypothesis
 Duru–Kleinert transformation
 Dynamical pictures (quantum mechanics)
 Dynamical reduction
@@ -12786,10 +12786,10 @@ Glossary of quantum philosophy
 Good quantum number
 Ground state
 Gyrovector space
-Hamilton%27s optico-mechanical analogy
+Hamilton's optico-mechanical analogy
 Hartman effect
 Heisenberg picture
-Heisenberg%27s entryway to matrix mechanics
+Heisenberg's entryway to matrix mechanics
 Heisenberg-Langevin equation
 History of spectroscopy
 Holomovement
@@ -12937,7 +12937,7 @@ Representation theory of the Lorentz group
 Resonances in scattering from potentials
 Retrocausality
 Rotation operator (quantum mechanics)
-Sakurai%27s Bell inequality
+Sakurai's Bell inequality
 Scale relativity
 Scar (physics)
 Scattering length
@@ -13305,7 +13305,7 @@ Szilard–Chalmers effect
 Radical initiator
 ABCN
 Acetone peroxide
-4,4%27-Azobis(4-cyanopentanoic acid)
+4,4'-Azobis(4-cyanopentanoic acid)
 Benzoyl peroxide
 Di-tert-butyl peroxide
 Potassium persulfate
@@ -13436,7 +13436,7 @@ Cashew
 Convolvulus scammonia
 Copaiba
 Copal
-Dragon%27s blood
+Dragon's blood
 Frankincense
 Galbanum
 Gamboge
@@ -13508,7 +13508,7 @@ James White (engineer)
 Clarence Zener
 Rheology
 Brookfield Engineering
-Byerlee%27s law
+Byerlee's law
 Force spectrum microscopy
 Microrheology
 Mixture theory
@@ -13568,7 +13568,7 @@ Sodium ethyl xanthate
 Sodium propionate
 Sodium sorbate
 Soil salinity
-Tutton%27s salt
+Tutton's salt
 Xanthate
 Saltern
 Dampier Saltworks Important Bird Area
@@ -13773,7 +13773,7 @@ Ion beam lithography
 Ion beam mixing
 Ion layer gas reaction
 Kinetic Monte Carlo surface growth method
-Klaiber%27s law
+Klaiber's law
 Laser trimming
 Layer (electronics)
 List of semiconductor fabrication plants
@@ -13974,7 +13974,7 @@ II-VI semiconductor compound
 Impact ionization
 Isobutylgermane
 Isotropic etching
-Johnson%27s figure of merit
+Johnson's figure of merit
 Junction temperature
 Low level injection
 Luttinger parameter
@@ -14050,7 +14050,7 @@ List of countries by silicon production
 Book:Silicon
 File:Black silicon LP3.jpg
 File:Other granular silicon has an irregular size and its oxidized surface makes it difficult to melt.jpeg
-File:Peak Sun%27s uniform particle size and lack of oxidation make for ideal granular silicon feedstock.jpeg
+File:Peak Sun's uniform particle size and lack of oxidation make for ideal granular silicon feedstock.jpeg
 File:Schumacher Process Diagram 800x450.jpeg
 Nicrosil
 Nisil
@@ -14203,7 +14203,7 @@ Cohesion (geology)
 Consolidation (soil)
 Critical state soil mechanics
 Darcy (unit)
-Darcy%27s law
+Darcy's law
 Dilatancy (granular material)
 Effective stress
 Erodability
@@ -14229,7 +14229,7 @@ Soil sloughing
 Soil surcharging
 Specific storage
 Specific weight
-Terzaghi%27s principle
+Terzaghi's principle
 Water content
 Atterberg limits
 California bearing ratio
@@ -14300,7 +14300,7 @@ Electrostatic precipitator
 Elutriation
 Solid mechanics
 Anton-Schmidt equation of state
-Archer%27s paradox
+Archer's paradox
 Beam (structure)
 Chord modulus
 Compression (geology)
@@ -14315,7 +14315,7 @@ Hoek–Brown failure criterion
 IRONCAD
 Johnson–Holmquist damage model
 Kirsch equations
-Korn%27s inequality
+Korn's inequality
 Membrane analogy
 Minimum total potential energy principle
 Neutral axis
@@ -14469,29 +14469,29 @@ Gallocyanin stain
 GFAP stain
 Giemsa stain
 Gimenez stain
-Golgi%27s method
+Golgi's method
 Gömöri trichrome stain
 Gram staining
 Gram-negative bacteria
 Gram-positive bacteria
-Grocott%27s methenamine silver stain
+Grocott's methenamine silver stain
 H&E stain
-Heidenhain%27s AZAN trichrome stain
+Heidenhain's AZAN trichrome stain
 Histology
 HOPS stain
 HPS stain
 Immunocytochemistry
 Immunohistochemistry
-Jenner%27s stain
-Jones%27 stain
+Jenner's stain
+Jones' stain
 Kinyoun stain
 Leishman stain
-Lillie%27s trichrome
+Lillie's trichrome
 List of histologic stains that aid in diagnosis of cutaneous conditions
 Luxol fast blue stain
-Masson%27s trichrome stain
+Masson's trichrome stain
 Moeller stain
-Movat%27s stain
+Movat's stain
 Mucicarmine stain
 Nigrosin
 Papanicolaou stain
@@ -14509,13 +14509,13 @@ Thionine
 Toluidine blue stain
 Trichrome
 Trichrome stain
-Van Gieson%27s stain
+Van Gieson's stain
 Vanillin–HCl staining
 Verhoeff’s stain
 Vital stain
 Von Kossa stain
 Warthin–Starry stain
-Wright%27s stain
+Wright's stain
 Ziehl–Neelsen stain
 Acid fuchsin
 Acridine yellow
@@ -14531,7 +14531,7 @@ Coomassie Brilliant Blue
 DAPI
 P-Dimethylaminocinnamaldehyde
 Eosin
-5-Ethynyl-2%27-deoxyuridine
+5-Ethynyl-2'-deoxyuridine
 Fast Green FCF
 Fluorescein
 Fluorescein isothiocyanate
@@ -14540,8 +14540,8 @@ Haematoxylin
 Hematein
 Hoechst stain
 Light Green SF yellowish
-Lugol%27s iodine
-Mallory%27s trichrome stain
+Lugol's iodine
+Mallory's trichrome stain
 Methyl blue
 Oil Blue 35
 Oil Red O
@@ -14760,7 +14760,7 @@ American Superconductor
 E. T. S. Appleyard
 BCS theory
 BCS: 50 Years
-Bean%27s critical state model
+Bean's critical state model
 Bechgaard salt
 Maxim Chernodub
 Composite reaction texturing
@@ -14776,7 +14776,7 @@ Ivar Giaever
 Vitaly Ginzburg
 Ginzburg–Landau theory
 Holbrook Superconductor Project
-Homes%27s law
+Homes's law
 Ideally hard superconductor
 Kinetic inductance
 List of superconductors
@@ -15013,7 +15013,7 @@ Greek terracotta figurines
 Hyson Green Methodist Free Church
 Jackson Tower
 Laterculus
-St Stephen and All Martyrs%27 Church, Lever Bridge
+St Stephen and All Martyrs' Church, Lever Bridge
 Lycosura
 Majapahit Terracotta
 Manchester Town Hall
@@ -15032,7 +15032,7 @@ Luca della Robbia
 Roof tiles
 Royal Albert Hall
 Holy Trinity Platt Church
-St Paul%27s Church, Scotforth
+St Paul's Church, Scotforth
 Saltillo tile
 Sanskriti Museums
 Santon (figurine)
@@ -15189,7 +15189,7 @@ Stirling cycle
 Flash-gas
 Subcooling
 Variable cycle three-stroke engine
-Boltzmann%27s entropy formula
+Boltzmann's entropy formula
 Configuration entropy
 Conformational entropy
 Disgregation
@@ -15212,7 +15212,7 @@ Homentropic flow
 Introduction to entropy
 Isentropic nozzle flow
 Isentropic process
-Landauer%27s principle
+Landauer's principle
 Negentropy
 Nonextensive entropy
 Residual entropy
@@ -15220,7 +15220,7 @@ Sackur–Tetrode equation
 Standard molar entropy
 Tsallis entropy
 Antoine equation
-Bridgman%27s thermodynamic equations
+Bridgman's thermodynamic equations
 Compressibility equation
 Duhem–Margules equation
 Ehrenfest equations
@@ -15357,7 +15357,7 @@ Laser schlieren deflectometry
 Massieu function
 MaxEnt school
 Maximum power principle
-Maxwell%27s thermodynamic surface
+Maxwell's thermodynamic surface
 Mechanically isolated system
 Motive power
 Multiplicity function for N noninteracting spins
@@ -15680,7 +15680,7 @@ Cubic metre per second
 Data rate units
 Fixture unit
 Million standard cubic feet per day
-Miner%27s inch
+Miner's inch
 Pound per hour
 SCCM (flow unit)
 Standard cubic feet per minute
@@ -15772,7 +15772,7 @@ Jojoba oil
 Microcrystalline wax
 Montan wax
 Moustache wax
-Mr. Zog%27s Sex Wax
+Mr. Zog's Sex Wax
 Muffin Wax
 Ouricury wax
 Ozokerite
@@ -15827,7 +15827,7 @@ Diocletian window
 Display window
 Dormer
 Embrasure
-Equip%27baie
+Equip'baie
 Espagnolette
 Fanlight
 Fenestration testing laboratory
@@ -15886,7 +15886,7 @@ Tracery
 Transom (architectural)
 Truth window
 Wall dormer
-Weavers%27 windows
+Weavers' windows
 Window blind
 Window box
 Window covering

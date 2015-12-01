@@ -39,10 +39,12 @@ for word in string.splitlines():
     try:
         dictionary[word] = wikipedia.summary(str(word))
         print dictionary[word]
-        f.write(dictionary[word].encode('utf8') + "--&&-- \n")
+        f.write(dictionary[word].encode('utf8') + "\n --&&-- \n")
         time.sleep(1)
-    except:
-        exception.write(dictionary[word].encode('utf8') + "--&&-- \n")
+    except Exception as e:
+        exceptions.write(dictionary[word].encode('utf8') + "\n --&&-- \n")
+        print "EXCEPTION CAUGHT AT: " + word
+        break
 # Closes output file
 f.close()
 exceptions.close()
