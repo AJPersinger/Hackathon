@@ -42,21 +42,21 @@ f = open("output.txt", 'a' )
 exceptions = open("exceptions.txt", 'a' )
 string = open('words.txt').read()
 
-shortList = string.splitlines()[readLines:]
+shortList = string.splitlines()[readLines+1:]
 
 # Cycles through X amount of words states status of process and wites to output file
 for word in shortList:
     try:
         dictionary[word] = wikipedia.summary(str(word))
         print (dictionary[word] + "\n --&&-- \n")
-        f.write(dictionary[word].encode('utf8') + "\n --&&-- \n")
+        f.write(dictionary[word].encode('utf-8') + "\n --&&-- \n")
         time.sleep(1)
         print(time.time() - t)
     except KeyError as e:
-        exceptions.write(word.encode('utf8') + "\n --&&-- \n")
+        exceptions.write(word.encode('utf-8') + "\n --&&-- \n")
         print "EXCEPTION CAUGHT AT: " + word + " BECAUSE: " + e
     except:
-        exceptions.write(word.encode('utf8') + "\n --&&-- \n")
+        exceptions.write(word.encode('utf-8') + "\n --&&-- \n")
         print "EXCEPTION CAUGHT AT: " + word
 
 
